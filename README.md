@@ -1,4 +1,8 @@
 # learnings
 codes and links that i learned from
-[Peter Norvig's Github](https://github.com/norvig?tab=repositories)
-[Fastai](https://www.fast.ai/)
+
+Probability
+ * [Peter Norvig's Github](https://github.com/norvig?tab=repositories)
+
+Deep Leaning
+ * [Fastai](https://www.fast.ai/)
