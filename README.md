@@ -1,4 +1,4 @@
 # learnings
 codes and links that i learned from
-[Peter Norvigs Github](https://github.com/norvig?tab=repositories)
+[Peter Norvig's Github](https://github.com/norvig?tab=repositories)
 [Fastai](https://www.fast.ai/)
