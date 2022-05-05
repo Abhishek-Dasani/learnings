@@ -7,6 +7,7 @@ Probability
 
 Machine Learning
 * [Introduction to Statistical Learning by Gareth Jaems et.al.](https://www.statlearning.com/)
+* [Elements of Statistical Learnin](https://hastie.su.domains/ElemStatLearn/)
 
 Deep Learning
  * [Fastai](https://www.fast.ai/)
