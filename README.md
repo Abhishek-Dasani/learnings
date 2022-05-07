@@ -13,5 +13,5 @@ Machine Learning
 
 Deep Learning
 * [Fastai](https://www.fast.ai/)
-* [Chirs Olah's blog](http://colah.github.io/)
+* [Chris Olah's blog](http://colah.github.io/)
 * [Andrej Karpathy's Blog](https://karpathy.github.io/)
