@@ -1,6 +1,9 @@
 # learnings
 codes and links that i learned from
 
+Python
+* [Python for data analysis by Wes Mckinney](https://wesmckinney.com/book/python-builtin.html)
+
 Probability
 * [Peter Norvig's Github](https://github.com/norvig?tab=repositories)
 * [Probabilty online book by David M Lane](https://onlinestatbook.com/)
