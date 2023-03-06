@@ -9,7 +9,7 @@ Probability
 * [Probabilty online book by David M Lane](https://onlinestatbook.com/)
 
 Machine Learning
-* [Introduction to Statistical Learning by Gareth Jaems et.al.](https://www.statlearning.com/)
+* [Introduction to Statistical Learning by Gareth James et.al.](https://www.statlearning.com/)
 * [Elements of Statistical Learning by Trevor Hastie et.al.](https://hastie.su.domains/ElemStatLearn/)
 * [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 * [Andrew Ng's Machine Learning Course on Coursera](https://www.coursera.org/learn/machine-learning) 
